@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry exported="true" kind="lib" path="E:/mongoDB/freemarker-2.3.19.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/mongoDB/jetty-all-7.3.0.v20110203.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/mongoDB/jetty-all-server-7.0.2.RC0.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/mongoDB/jetty-webapp-8.0.0.RC0.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/mongoDB/mongo-2.10.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/mongoDB/servlet-api-2.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/mongoDB/slf4j-api-1.6.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/mongoDB/spark-0.9.9.4-SNAPSHOT.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/mongoDB/commons-codec-1.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/mongoDB/commons-lang3-3.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
