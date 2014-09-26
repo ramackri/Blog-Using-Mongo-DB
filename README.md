@@ -6,10 +6,10 @@ Mong DB is used for manipulating data in data base.
 
 ## The number of Technology stacks are used in this project
 
- *1.Java 
- *2.Free Marker 
- *3.Spark 
- *4.Mongo DB(Database)
+ * 1.Java 
+ * 2.Free Marker 
+ * 3.Spark 
+ * 4.Mongo DB(Database)
  
  
 
