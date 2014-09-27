@@ -26,7 +26,7 @@ Want to Contribute ?
 I'm so happy if you do. Fork the project, make whatever changes you want to do and submit a pull request. 
 
 For testing it locally, there's a `BlogController.java` file included in the `src` folder. 
-Open up the java terminal and run the BlogController.java file ( You need to have **Mongo DB** installed  before starting running java code ).
+Open up the java terminal and run the BlogController.java file ( You need to have **Mongo DB** installed  before start running java code ).
 
 
 
